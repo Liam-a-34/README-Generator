@@ -16,11 +16,20 @@ This is a program that will automatically generate a professional README, based 
 ## Installation
 
 For this application to function properly, you need to install the following:
-* Navigate to the README Generator and git pull the latest repository to your machine
+
+* Navigate to the README Generator and git pull the latest repository to your machine.
+
+* Run npm install in order to install inquirer.
+
+* Using your terminal, use the command node index.js to initialize the application.
 
 ## Usage
 
-Open your code editor, and run "node index.js"
+* Open your code editor, and run "node index.js" in your terminal.
+
+* Enter the information requested by the generator.
+
+* Sit back and relax.
 
 ## Contributions
 
@@ -28,7 +37,7 @@ Unapplicable
 
 ## Tests
 
-Running it on your local machine!
+Run the generator on your local machine for testing.
 
 ## License
 
@@ -36,4 +45,4 @@ MIT License
 
 ## Questions
 
-If you have in questions, or bug reports, contact me at Github: https://github.com/Liam-a-34 or Email: liamallen343@gmail.com
+If you have any questions, or bug reports, contact me at Github: https://github.com/Liam-a-34 or Email: liamallen343@gmail.com
