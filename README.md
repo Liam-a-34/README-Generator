@@ -31,6 +31,10 @@ For this application to function properly, you need to install the following:
 
 * Sit back and relax.
 
+## Screenshot 
+
+![Screenshot_200](https://user-images.githubusercontent.com/113379247/206797649-02bf1bab-a1fd-4999-8f3a-da676f2d66d2.png)
+
 ## Contributions
 
 Unapplicable
