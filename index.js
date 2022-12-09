@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 
 const genREADME = ({title, description, installation, usage, contributions, tests, license, github, email, badge }) =>
 
-`#${title}
+`# ${title}
 ${badge}
 
 ## Description
