@@ -41,7 +41,7 @@ ${license} License
 
 ## Questions
 
-If you have in questions, or bug reports, contact me at Github: https://github.com/${github} or Email: ${email}
+If you have any questions, or bug reports, contact me at Github: https://github.com/${github} or Email: ${email}
 `
 
 inquirer
