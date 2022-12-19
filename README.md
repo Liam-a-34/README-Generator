@@ -1,9 +1,9 @@
-# README Generator
+# Professional README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This is a program that will automatically generate a professional README, based off of information you provide!
+This is a professional README generator, that will automatically fill out a README based off your given information.
 
 ## Table of Contents
 
@@ -16,34 +16,21 @@ This is a program that will automatically generate a professional README, based 
 ## Installation
 
 For this application to function properly, you need to install the following:
-
-* Navigate to the README Generator and git pull the latest repository to your machine.
-
-* Run npm install in order to install inquirer.
-
-* Using your terminal, use the command node index.js to initialize the application.
+1. Clone to your local machine.
+2. Open your code editor.
+3. That's it!
 
 ## Usage
 
-* Open your code editor, and run "node index.js" in your terminal.
-
-* Enter the information requested by the generator.
-
-* Sit back and relax.
-
-## Preview
-
-
-https://user-images.githubusercontent.com/113379247/206799637-eb1fc49d-7ca7-4a58-9e69-783fe2e7386a.mp4
-
+Run "node index.js" in your terminal, and follow prompts.
 
 ## Contributions
 
-Unapplicable
+Adding more prompts.
 
 ## Tests
 
-Run the generator on your local machine for testing.
+Unapplicable
 
 ## License
 
