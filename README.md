@@ -24,6 +24,18 @@ For this application to function properly, you need to install the following:
 
 Run "node index.js" in your terminal, and follow prompts.
 
+## Preview
+
+
+
+https://user-images.githubusercontent.com/113379247/208490671-9f8db446-9340-4934-b54d-aaea5218fbaa.mp4
+
+
+
+https://user-images.githubusercontent.com/113379247/208490705-db19eaf9-1e94-41d4-a797-9ecb5ff1cc70.mp4
+
+
+
 ## Contributions
 
 Adding more prompts.
